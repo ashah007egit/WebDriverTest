@@ -15,6 +15,7 @@ public class NewTest {
 			String title = driver1.getTitle();				 
 			Assert.assertTrue(title.contains("Demo Guru99 Page")); 	
 			System.out.println(title);
+			System.out.println("Success!!!");
 		}	
 		@BeforeTest
 		public void beforeTest() {	
