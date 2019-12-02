@@ -16,6 +16,7 @@ public class NewTest {
 			Assert.assertTrue(title.contains("Demo Guru99 Page")); 	
 			System.out.println(title);
 			System.out.println("Success!!!");
+			System.out.println("Success 2!!!");
 		}	
 		@BeforeTest
 		public void beforeTest() {	
