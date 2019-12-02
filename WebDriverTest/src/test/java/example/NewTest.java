@@ -17,6 +17,7 @@ public class NewTest {
 			System.out.println(title);
 			System.out.println("Success!!!");
 			System.out.println("Success 2!!!");
+			System.out.println("Success 3!!!");
 		}	
 		@BeforeTest
 		public void beforeTest() {	
